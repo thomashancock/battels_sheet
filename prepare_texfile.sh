@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-    cd src
+cd src
 
 # Sort list of names
 SORTED="names_sorted.txt"
