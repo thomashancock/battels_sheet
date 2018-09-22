@@ -1,0 +1,114 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.23)  22 SEP 2018 20:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+! Text line contains an invalid character.
+l.1 ^^H
+       egin{document}
+? 
+! Interruption.
+<to be read again> 
+                   e
+l.1 ^^He
+        gin{document}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ^^He
+        gin{document}
+? 
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[] 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \end{document}
+                  
+? 
+[1]
+! I can't find file `main.aux'.
+\enddocument ...keatletter \@@input \jobname .aux 
+                                                  \fi \@dofilelist \ifdim \f...
+l.2 \end{document}
+                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `main.aux'.
+\enddocument ...keatletter \@@input \jobname .aux 
+                                                  \fi \@dofilelist \ifdim \f...
+l.2 \end{document}
+                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `main.aux'.
+\enddocument ...keatletter \@@input \jobname .aux 
+                                                  \fi \@dofilelist \ifdim \f...
+l.2 \end{document}
+                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `main.aux'.
+\enddocument ...keatletter \@@input \jobname .aux 
+                                                  \fi \@dofilelist \ifdim \f...
+l.2 \end{document}
+                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `main.aux'.
+\enddocument ...keatletter \@@input \jobname .aux 
+                                                  \fi \@dofilelist \ifdim \f...
+l.2 \end{document}
+                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `main.aux'.
+\enddocument ...keatletter \@@input \jobname .aux 
+                                                  \fi \@dofilelist \ifdim \f...
+l.2 \end{document}
+                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `main.aux'.
+\enddocument ...keatletter \@@input \jobname .aux 
+                                                  \fi \@dofilelist \ifdim \f...
+l.2 \end{document}
+                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find file `main.aux'.
+\enddocument ...keatletter \@@input \jobname .aux 
+                                                  \fi \@dofilelist \ifdim \f...
+l.2 \end{document}
+                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! I can't find
