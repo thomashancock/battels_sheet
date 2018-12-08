@@ -3,4 +3,5 @@
 *.pdf
 *.log
 *.aux
+main.tex
 names_sorted.txt
