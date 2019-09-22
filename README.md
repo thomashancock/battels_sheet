@@ -1,4 +1,4 @@
-#Balliol MCR Megaron Battel Sheets
+# Balliol MCR Megaron Battel Sheets
 
 ### Building the sheets
 The sheets are prepared using make. Simply call ``make`` to build the sheets.
